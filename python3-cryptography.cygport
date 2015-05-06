@@ -1,0 +1,9 @@
+inherit python3-distutils
+
+NAME="python3-cryptography"
+VERSION=0.8.2
+RELEASE=1
+CATEGORY="Python"
+SUMMARY="Python 3 cryptography primitives"
+DESCRIPTION="cryptography is a package which provides cryptographic recipes and
+primitives to Python developers."
